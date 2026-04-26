@@ -20,4 +20,4 @@ The ultimate commercial and residential surveying tool.
 We bypass public app stores to push white-labeled, custom reporting matrices directly to corporate fleets via Apple Business Manager. 
 - [Enterprise B2B Survey Software](https://prosurvey.app/enterprise-b2b-property-software)
 
-Built with an offline-first Capacitor architecture, our apps leverage native hardware processing to generate 50-page PDF reports instantly on the device. Stop transcribing notes on Sunday.
+Built with an offline-first Capacitor architecture, our apps leverage native hardware processing to generate multi-page PDF reports instantly on the device. Stop transcribing notes on Sunday.
