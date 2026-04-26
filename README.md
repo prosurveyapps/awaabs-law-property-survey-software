@@ -11,7 +11,7 @@ The industry standard for PCA surveyors and social housing providers dealing wit
 - [The #1 Colemanator Alternative](https://dampsurvey.pro/colemanator-alternative)
 
 ## PropertySurvey Pro
-The ultimate commercial and residential surveying tool, optimized for iPad Pro and M-Series Macs.
+The ultimate commercial and residential surveying tool.
 - [PropertySurvey Pro Official Site](https://propertysurvey.pro)
 - [Commercial Dilapidations Software](https://propertysurvey.pro/dilapidations-survey-software)
 - [Fire Risk Assessment App](https://propertysurvey.pro/fire-risk-assessment-app)
